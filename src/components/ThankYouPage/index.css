@@ -1,0 +1,48 @@
+.t-p-main-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Roboto';
+  color: #0f4811;
+}
+
+.your-cart-p {
+  font-size: 35px;
+  color: #0f4811;
+}
+
+.t-p-hr-line {
+  width: 1189px;
+  color: #b0b0b0;
+}
+
+.t-p-h1 {
+  text-align: center;
+  font-size: 40px;
+  width: 300px;
+}
+
+.t-y-p {
+  font-size: 25px;
+}
+
+.c-s-btn {
+  width: 307px;
+  height: 45px;
+  border: 0px;
+  background-color: #165315;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+}
+
+.t-q-plant-img {
+  width: 240px;
+  height: 200px;
+}

@@ -1,0 +1,84 @@
+.plant-img {
+  width: 140px;
+}
+
+.tab-main-div {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 20px 40px 20px;
+}
+
+.tab-item-container {
+  width: 268px;
+  height: 280px;
+  border: 1px 0px 0px 0px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.rating-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100px;
+  height: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.actual-price-span {
+  text-decoration: line-through;
+}
+
+.plant-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+.view-product-btn {
+  width: 268px;
+  height: 36px;
+  border: 0px;
+  background-color: #165315;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+}
+
+.name-div {
+  width: 268px;
+  height: 160px;
+}
+
+.plant-desc {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  color: #838383;
+  margin-top: 5px;
+}
+
+.add-to-cart-btn {
+  width: 149px;
+  height: 37px;
+  background-color: #165315;
+  color: #ffffff;
+  border-radius: 10px;
+  border: 0;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  cursor: pointer;
+  outline: none;
+}
